@@ -1,2 +1,1 @@
-# Crime-Analysis
-Interactive Tableau dashboard analyzing crime data
+This Project has a PDF file which describes the crime analysis in Tableau.
